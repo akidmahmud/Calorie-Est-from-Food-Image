@@ -1,0 +1,6 @@
+streamlit>=1.29.0,<2.0.0
+Pillow>=11.0.0
+google-generativeai
+python-dotenv>=1.0.0,<2.0.0
+plotly
+pandas
